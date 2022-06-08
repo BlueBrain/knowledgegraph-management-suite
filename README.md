@@ -1,5 +1,4 @@
 # Knowledgegraph Management Suite
-A suite to XXX(SOME TEXT MISSING HERE).
 
 - [Nexus](#nexus) — Blue Brain Nexus - A knowledge graph for data-driven science
 - [Nexus-Web](#nexus-web) — Nexus Web is the interface of Blue Brain Nexus
@@ -15,7 +14,6 @@ Useful links:
 
 **Blue Brain Nexus - A knowledge graph for data-driven science.**
 
-SOME MORE TEXT HERE
 
 ## Nexus-Web
 
@@ -27,7 +25,6 @@ Useful links:
 
 **Nexus Web is the interface of Blue Brain Nexus.**
 
-SOME MORE TEXT HERE
 
 ## Nexus-Forge
 
